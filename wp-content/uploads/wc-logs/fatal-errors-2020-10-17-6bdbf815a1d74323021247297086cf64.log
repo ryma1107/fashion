@@ -1,0 +1,2 @@
+2020-10-17T11:31:53+00:00 CRITICAL syntax error, unexpected 'woocommerce' (T_STRING), expecting ')' in C:\xampp\htdocs\Fashion\wp-content\plugins\woocommerce\templates\myaccount\form-login.php on line 107
+
